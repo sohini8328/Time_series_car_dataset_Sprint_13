@@ -32,15 +32,6 @@ Despite a higher RMSE, LightGBMRegressor was selected due to:
 * Clear feature importance ranking for interpretability.
 * Reliable performance for demand forecasting.
 
-📈 Insights & Results
-Regional Preferences:
-* North America: Action/Shooter games dominate.
-* Japan: Strong preference for Role-Playing Games.
-* Shooter games lead in median sales, especially mature-rated titles due to adult purchasing power.
-
-Platform Trends:
-* Spike in game releases from 2007–2011.
-* New platforms follow a 2–8 year popularity cycle.
 
 BLANK_README.md to get started Build With: This is the list of the libraries used by me to run this project were pandas, numpy, matplotlib.pyplot, train_test_split, LGBMClassifier, seasonal_decompose, ColumnTransformer,StandardScaler,
 LinearRegression, DecisionTreeRegressor, RandomForestRegressor, LGBMRegressor, XGBRegressor, TimeSeriesSplit, mean_squared_error 
